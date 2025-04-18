@@ -47,8 +47,9 @@ Apaixonado por tecnologia, desenvolvimento web e backend. Ao longo da graduaçã
 
 ## 📊 GitHub Stats:
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielInacio07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielInacio07&show_icons=true&theme=tokyonight&width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight&width=400)
+
 
 ## 🐍 Snake animation
 
