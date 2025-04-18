@@ -1,44 +1,34 @@
-name: Generate Snake Animation
-
-# 1) Permissões necessárias
-permissions:
-  contents: write
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
-  workflow_dispatch:
-
+# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
 
-      - name: Gerar snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: GabrielInacio07
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
 
-      - name: Commit e push do resultado
-        uses: EndBug/add-and-commit@v9
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          author_name: GitHub Action
-          author_email: action@github.com
-          message: "Atualizando snake animation 🐍"
-          add: "dist/github-contribution-grid-snake.svg"
+          github_user_name: GabrielInacio07 #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
 
-      - name: Publicar no branch `output`
-        run: |
-          git fetch origin
-          git switch --orphan output
-          git rm -rf .
-          mv dist/github-contribution-grid-snake.svg .
-          git add github-contribution-grid-snake.svg
-          git commit -m "Deploy snake animation"
-          git push --force origin output
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
