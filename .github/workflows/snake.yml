@@ -1,8 +1,12 @@
 name: Generate Snake Animation
 
+# 1) Permissões necessárias
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Gera todo dia à meia-noite
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -27,6 +31,7 @@ jobs:
           author_email: action@github.com
           message: "Atualizando snake animation 🐍"
           add: "dist/github-contribution-grid-snake.svg"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar no branch `output`
         run: |
