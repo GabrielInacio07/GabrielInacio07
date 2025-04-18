@@ -1,9 +1,5 @@
 ## Olá, Eu sou GabrielInacio07 👋
 
-Sou Gabriel Inácio, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Mato Grosso do Sul (IFMS), atualmente cursando o 6º e último semestre! 📚💻
-
-Apaixonado por tecnologia, desenvolvimento web e backend. Ao longo da graduação, participei de diversos projetos acadêmicos e pessoais que me ajudaram a construir uma base sólida em programação, arquitetura de software e boas práticas de desenvolvimento.
-
 💡 Sobre mim:
 - 🎓 Estudante de ADS no IFMS — 6º semestre
 - 👨‍💻 Desenvolvedor em formação, sempre buscando aprender novas tecnologias
@@ -47,8 +43,9 @@ Apaixonado por tecnologia, desenvolvimento web e backend. Ao longo da graduaçã
 
 ## 📊 GitHub Stats:
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielInacio07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielInacio07&show_icons=true&theme=tokyonight&width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight&width=400)
+
 
 ## 🐍 Snake animation
 
