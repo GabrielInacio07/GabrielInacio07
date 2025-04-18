@@ -47,12 +47,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight&width=400)
 
 
-## 🐍 Snake animation
-
-![Snake animation](https://github.com/GabrielInacio07/GabrielInacio07/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/?username=GabrielInacio07&repo=GabrielInacio07&theme=react)](https://github.com/GabrielInacio07/GabrielInacio07)
-
 
 
 
