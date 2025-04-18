@@ -49,5 +49,6 @@
 
 ## 🐍 Snake animation
 
-![snake gif](https://github.com/GabrielInacio07/GabrielInacio07/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/GabrielInacio07/GabrielInacio07/output/github-contribution-grid-snake.svg)
+
 
