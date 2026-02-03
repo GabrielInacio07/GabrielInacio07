@@ -1,54 +1,43 @@
 # Gabriel Inácio 👋
-
-Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas (IFMS)**, com foco em backend, integração de sistemas e APIs REST.
-
+Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas (IFMS)**,com foco desenvolvimento de software.
 ---
-
 ## 🎓 Formação
-- Análise e Desenvolvimento de Sistemas — **IFMS**
-- Repositórios criados até **outubro/2025** representam projetos acadêmicos e evolução técnica durante a graduação.
-
+- **Análise e Desenvolvimento de Sistemas — IFMS**
 ---
-
-## 💼 Experiência Profissional
+## 💼 Experiência
 **Analista — ANYMARKET**
 - Integração e consumo de **APIs REST**
 - Análise de dados e consultas em banco
 - Entendimento de fluxos entre endpoints
-- Leitura técnica de respostas de API e comunicação entre sistemas
-
+- Comunicação entre sistemas e interpretação de respostas de API
 ---
-
 ## 🧠 Hard Skills
 - APIs REST
 - Integração de sistemas
-- Backend e Full Stack
 - Programação Orientada a Objetos
 - Análise de dados
-- Java (estudo autodidata)
-- JavaScript / TypeScript
-
+- Java
+- JavaScript e TypeScript
 ---
-
 ## 🛠️ Tecnologias
-
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
 </p>
-
 ---
 
-## 📊 Linguagens mais utilizadas
-_Foco em hard skill e histórico real dos repositórios_
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInacio07&layout=compact&theme=tokyonight)
+## 📊 Linguagens
+![Java](https://img.shields.io/badge/Java-Estudo%20e%20Projetos-007396?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-APIs%20e%20Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Full%20Stack-3178C6?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-Base%20Web-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Estiliza%C3%A7%C3%A3o-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
