@@ -1,23 +1,30 @@
 # Gabriel Inácio 👋
+
+<p align="left">
+  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+  🏫 IFMS
+</p>
+
 ---
-## 🎓 Formação
-- **Análise e Desenvolvimento de Sistemas — IFMS**
----
+
 ## 💼 Experiência
+
 **Analista — ANYMARKET**
-- Integração e consumo de **APIs REST**
-- Análise de dados e consultas em banco
-- Entendimento de fluxos entre endpoints
-- Comunicação entre sistemas e interpretação de respostas de API
+- 🔗 Integração e consumo de **APIs REST**
+- 📊 Análise de dados e consultas em banco
+- 🔄 Entendimento de fluxos entre endpoints
+- 📡 Comunicação entre sistemas/clientes e interpretação de respostas de API
+
 ---
+
 ## 🧠 Hard Skills
-- APIs REST
-- Integração de sistemas
-- Programação Orientada a Objetos
-- Análise de dados
-- Java
-- JavaScript e TypeScript
+- 🔗 APIs REST
+- 🧩 Integração de sistemas
+- 📐 Programação Orientada a Objetos
+- 📊 Análise de dados
+
 ---
+
 ## 🛠️ Tecnologias
 
 <p align="left">
@@ -32,9 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
 </p>
+
 ---
 
-## 📊 Linguagens
+## 📊 Linguagens & Stack
 
 ![Java](https://img.shields.io/badge/Java-Backend%20%7C%20APIs-007396?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -44,6 +52,18 @@
 ![HTML](https://img.shields.io/badge/HTML-Base%20Web-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3)
 
-## 🔗 Contato 
-- LinkedIn: https://www.linkedin.com/in/gabriel-in%C3%A1cio-b2b968253/  
-- Email: inaciogabriell89@gmail.com
+---
+
+## 🔗 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-in%C3%A1cio-b2b968253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20In%C3%A1cio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:inaciogabriell89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inaciogabriell89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
