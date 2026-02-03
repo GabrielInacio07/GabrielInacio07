@@ -39,7 +39,6 @@ Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas (IFMS)**,com f
 ![HTML](https://img.shields.io/badge/HTML-Base%20Web-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Estiliza%C3%A7%C3%A3o-1572B6?style=for-the-badge&logo=css3)
 
----
 
 ## 🔗 Contato 
 - LinkedIn: https://www.linkedin.com/in/gabriel-in%C3%A1cio-b2b968253/  
