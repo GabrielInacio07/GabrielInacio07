@@ -1,5 +1,4 @@
 # Gabriel Inácio 👋
-Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas (IFMS)**,com foco desenvolvimento de software.
 ---
 ## 🎓 Formação
 - **Análise e Desenvolvimento de Sistemas — IFMS**
