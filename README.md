@@ -41,7 +41,6 @@ Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas (IFMS)**,com f
 
 ---
 
-## 🔗 Contato
-- GitHub: https://github.com/GabrielInacio07  
+## 🔗 Contato 
 - LinkedIn: https://www.linkedin.com/in/gabriel-in%C3%A1cio-b2b968253/  
 - Email: inaciogabriell89@gmail.com
